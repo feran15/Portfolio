@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sub-body{
+    color: white ;
+    padding-top: 15%;
+    /* padding-left: 15%; */
+    letter-spacing: 7px;
+}
+.paul{
+    margin-top: 10px;
+}
+#front{
+    margin-top: 10px;
+}
+.img{
+    border-radius: 200px;
+    margin-top:20%;
+}
+.top-body{
+    display: flex;
+    justify-content: space-around;
+}
